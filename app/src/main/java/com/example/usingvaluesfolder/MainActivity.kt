@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         val string = "hi"
         // cont
+        // CODE AUTO PUSHING TO REMOTE
+
     }
 }
